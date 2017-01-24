@@ -1,9 +1,7 @@
-import javafx.geometry.Point3D;
 import processing.core.PApplet;
 
 import java.awt.*;
 import java.util.ArrayList;
-import java.util.stream.Collector;
 // TODO: to run/compile this project in an IDE:
 
 /**
@@ -12,7 +10,7 @@ import java.util.stream.Collector;
  * Open this project with your IDE,
  * import the core.jar lib from the files you downloaded into your
  * project structure.
- * /
+ * */
 
 
 public class DijkstrasAlgorithm extends PApplet {
