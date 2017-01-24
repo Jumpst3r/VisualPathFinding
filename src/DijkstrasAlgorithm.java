@@ -2,7 +2,7 @@ import processing.core.PApplet;
 
 import java.awt.*;
 import java.util.ArrayList;
-// TODO: to run/compile this project in an IDE:
+
 
 /**
  * This project was built using the processing 3 lib.
