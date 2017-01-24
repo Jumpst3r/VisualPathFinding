@@ -15,13 +15,6 @@ import java.util.stream.Collector;
  * /
 
 
-/**
- * Dijkstra's Algorithm
- * Created by Nicolas Dutly
- * mNr.16207557
- * on 16/01/2017, 14:55.
- */
-
 public class DijkstrasAlgorithm extends PApplet {
 
     final String ANSI_GREEN = "\u001B[32m";
